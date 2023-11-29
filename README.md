@@ -11,7 +11,7 @@
 
 ## 🤝 Collaboration and Projects
 
-- 🛠️ Managing @Cyberdevel Org
+- 🛠️ Managing Cyberdevel org
 - 👥 Open to collaborate on innovative software development projects
 
 ## 💬 Let's Connect!
