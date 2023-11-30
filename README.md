@@ -17,3 +17,7 @@
 ## 💬 Let's Connect!
 
 Feel free to reach out for collaborations or just for a chat about technology, radio communication, and networking!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azx5g)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azx5g&layout=compact)
